@@ -1,4 +1,4 @@
-print("Understanding for-loops")
+print("Understanding forloops")
 
 
 blog_posts = ["","The 10 coolest math functions in Python", "","How to Make HTTP requests in Python","A tutorial about data types"]
